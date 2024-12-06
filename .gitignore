@@ -1,0 +1,5 @@
+# archivos de compilacion 
+obj/
+bin/
+.vscode/
+
