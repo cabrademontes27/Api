@@ -21,7 +21,7 @@ app.UseAuthorization();
 app.MapControllers(); // Asegura que los controladores estén mapeados
 
 // Opción: Mensaje en la raíz
-app.MapGet("/", () => "¡Bienvenido a la API de Productos!");
+//app.MapGet("/", () => "¡Bienvenido a la API de Productos!");
 
 
 app.Run();

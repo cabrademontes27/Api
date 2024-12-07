@@ -1,4 +1,4 @@
-namespace APi.Modelos
+namespace plantilla.Modelo
 {
     public class Producto
     {
